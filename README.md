@@ -60,9 +60,11 @@ HOMEPAGE
           <h1>About Us</h1>
           <img src="./img/rotech.png" alt="Building" />
           <div class="contenttext">
-            RTech Solutions is a global IT company and professional services firm founded in 2003 and based in Irving, Texas.
+            RTech Solutions is a global IT company and professional services firm founded
+            in 2003 and based in Irving, Texas.
 
-We are committed to your success. From design to custom application development, RTech Solutions works closely with you to help
+We are committed to your success. From design to custom application development, RTech
+            Solutions works closely with you to help
 your company increase productivity, improve business processes, and expand business assets.
 
 The RTech Way is to be Responsive, Respectful, Resourceful, and Reliable.
