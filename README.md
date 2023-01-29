@@ -189,9 +189,6 @@ CONTACT US PAGE:
 </html>
 ```
 ## OUTPUT:
-
-### Home Page:
-
 ![output](/pic1.png)
 
 ![output](/pic2.png)
